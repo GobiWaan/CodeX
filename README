@@ -1,0 +1,10 @@
+To run the app:
+
+1. Install NodeJS (.exe sur google)
+
+2. (In console) npm install nextjs
+
+3. Navigate with console to your NextJS Project (cd ./YOU_PROJECT/)
+
+4. (In console) npm run dev
+
